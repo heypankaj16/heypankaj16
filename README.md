@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/heypankaj16)
 <h1 align="center">Hi 👋, I'm Pankaj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1732368/screenshots/6553872/web_developer.gif">
+<img align="right" alt="coding" width="400" src="https://technostupid.com/frontend/images/95116-coder.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankk9921&label=Profile%20views&color=0e75b6&style=flat" alt="pankk9921" /> </p>
 
