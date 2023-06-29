@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **Android Development**
 
-- 🌱 I’m currently learning **Android, Cyber Security**
+- 🌱 I’m currently learning **Android, Cyber Security, Ui/Ux**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pankk9921?tab=repositories](https://github.com/pankk9921?tab=repositories)
 
-- 💬 Ask me about **Java, HTML/CSS, Kali Linux Commands**
+- 💬 Ask me about **HTML/CSS, Kali Linux Commands, Ui/Ux, Android**
 
 - 📫 How to reach me **pankajpalkar16@gmail.com**
 
